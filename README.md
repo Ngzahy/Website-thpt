@@ -5,7 +5,7 @@ Website giới thiệu về Trường THPT FPT, cung cấp thông tin về chư�
 
 ## 🛠 Công nghệ sử dụng:  
 - **🖥 Frontend:** HTML, CSS, JavaScript  
-- **🎨 UI Framework:** Bootstrap (tuỳ chọn)  
+- **🎨 UI Framework:** Bootstrap 5
 - **📜 Font & Icons:** Google Fonts, FontAwesome  
 
 ## 🚀 Tính năng chính:  
